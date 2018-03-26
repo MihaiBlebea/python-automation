@@ -1,5 +1,1 @@
-This is the email file.
-
-It can be html or txt.
-
 Subject line: Hello stranger!
