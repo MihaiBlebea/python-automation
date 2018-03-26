@@ -1,3 +1,5 @@
-Salut!
+This is the email file.
 
-Acesta este un email bun.
+It can be html or txt.
+
+Subject line: Hello stranger!
