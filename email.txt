@@ -1,3 +1,4 @@
-Salut!
+This is the email file.
 
-Acesta este un email bun.
+It can be html or txt.
+We should probabily start with txt
