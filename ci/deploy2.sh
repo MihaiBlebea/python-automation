@@ -1,1 +1,1 @@
-ssh -r pi@192.168.1.23 ./Projects/project/* .
+ssh pi@192.168.1.23 ./Projects/project/* .
